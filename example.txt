@@ -1,0 +1,3 @@
+s compare button for the commits list and a code diff. 
+Changes are shown from the version in the first field to the version in the second field
+
