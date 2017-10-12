@@ -5,3 +5,4 @@ color it!!=
 glbal param..
 fix bug
 not save.
+stash 2
