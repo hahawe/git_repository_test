@@ -3,3 +3,4 @@ Changes are shown from the version in the first field to the version in the seco
 change it!!!!!
 color it!!
 glbal param...
+fix the bug
